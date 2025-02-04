@@ -8,8 +8,7 @@ Tempo das Sprints: 2 semanas
 
 <br>
 
-## 🪜 Quebra das funcionalidades
-
+## 🪜 Quebra das funcionalidades 
 1. Estruturar o Documento de Visão
 2. Elaborar a identidade visual do sistema
 3. Estruturar os requisitos funcionais
@@ -19,3 +18,18 @@ Tempo das Sprints: 2 semanas
 7. Elaborar um cronograma de entrega das tarefas?
 8. Elaborar o diagrama de atividades do sistema
 9. Elaborar diagramas de casos de uso do sistema
+
+<br> 
+
+## ✨ Épicos
+1. Documentação
+2. Design
+3. [DEFINIR FUTURAMENTE]
+
+<br>
+
+## 📌 Funcionalidades 
+1. Documentação estrutural
+2. Documentação Banco de Dados
+3. Diagramas
+4. Protótipo Login
