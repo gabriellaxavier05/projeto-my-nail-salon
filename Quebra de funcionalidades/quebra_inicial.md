@@ -32,4 +32,5 @@ Tempo das Sprints: 2 semanas
 1. Documentação estrutural
 2. Documentação Banco de Dados
 3. Diagramas
-4. Protótipo Login
+4. Design Identidade Visual
+5. Protótipo Login
