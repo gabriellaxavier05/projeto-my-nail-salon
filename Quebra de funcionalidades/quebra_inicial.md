@@ -22,8 +22,8 @@ Tempo das Sprints: 2 semanas
 <br> 
 
 ## ✨ Épicos
-1. Documentação
-2. Design
+1. Documentação [Término 04/03/25]
+2. Design [Término 29/04/25]
 3. [DEFINIR FUTURAMENTE]
 
 <br>
