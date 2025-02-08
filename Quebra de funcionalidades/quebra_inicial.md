@@ -15,7 +15,7 @@ Tempo estimado das Sprints: 2 semanas
 4. Estruturar os requisitos não funcionais
 5. Estruturar a regra de negócio
 6. Elaborar o MER (Modelo Entidade-Relacionamento) do sistema
-7. Elaborar o diagrama de atividades do sistema
+7. Elaborar o diagrama de atividades do sistema (login, cadastros de perfis, profissionais, procedimentos, clientes e agendamentos, e geração de relatório)
 8. Elaborar diagramas de casos de uso do sistema
 9. Protótipo da tela de login
 10. Protótipo da tela index
