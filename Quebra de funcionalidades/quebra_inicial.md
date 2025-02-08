@@ -4,7 +4,7 @@
 #### Sequência Fibonacci
 1 -> 2 -> 3 -> 5 -> 8 -> 13 -> 21  
 Pontuação máxima por Sprint: 21 pontos  
-Tempo das Sprints: 2 semanas  
+Tempo estimado das Sprints: 2 semanas  
 
 <br>
 
