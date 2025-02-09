@@ -20,13 +20,12 @@
 - Procedimento:
     - codProcedimento PK not null
     - procedimento varchar(30) not null
-    - precoProcedimento money not null
+    - valorProcedimento money not null
 
 - Cliente:
     - codCliente PK not null
     - nomeCliente varchar(70) not null
     - celularCliente varchar(15) not null
-    - emailCliente varchar(30) not null
 
 - Agendamento:
     - codAgendamento PK not null
