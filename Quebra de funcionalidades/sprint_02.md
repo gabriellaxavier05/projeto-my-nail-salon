@@ -2,12 +2,12 @@
 
 ### Cards definidos
 
-| **Card**                                                         | **Épico**    | **Funcionalidade**          | **Pontuação** |
-|------------------------------------------------------------------|--------------|-----------------------------|---------------|
-| Elaborar o MER (Modelo Entidade-Relacionamento)                  | Documentação | Documentação Banco de Dados | 8             |
-| Elaborar o diagrama de casos de uso do fluxo de login              | Documentação | Documentação Diagramas      | 5             |
-| Elaborar o diagrama de casos de uso do fluxo de cadastro de perfis | Documentação | Documentação Diagramas      | 8             |
-
+| **Card**                                        | **Épico**           | **Funcionalidade**          | **Pontuação** |
+|-----------------------------------------------|:-------------------:|:---------------------------:|:-------------:|
+| Elaborar o MER (Modelo Entidade-Relacionamento) | Documentação        | Documentação Banco de Dados | 5             |
+| Elaborar os diagramas de casos de uso           | Documentação        | Documentação Diagramas      | 5             |
+| Criar protótipo da tela de login                | Design da Aplicação | Protótipo Login             | 8             |
+| Criar protótipo da tela de recuperação de senha | Design da Aplicação | Protótipo Login             | 3             |
 
 <br>
 
