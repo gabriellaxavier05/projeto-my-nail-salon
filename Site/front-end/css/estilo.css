@@ -85,9 +85,8 @@ label {
 
 input {
     width: 100%;
-    margin-top: 7px;
-    margin-bottom: 10px;
-    padding-bottom: 7px;
+    margin: 7px 0px 10px 0px;
+    padding: 0px 0px 7px 12px;
     border: none; /* Remove as bordas padrão */
     border-bottom: 2px solid #FFFAF7; /* Adiciona a linha inferior */
     background-color: transparent; /* Remove o fundo padrão */
