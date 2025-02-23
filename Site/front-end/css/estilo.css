@@ -167,6 +167,14 @@ p a {
         max-width: 60%; /* Reduz o tamanho do logo */
     }
 
+    .left p {
+        font-size: 16px; /* Ajusta o tamanho da fonte quando a tela diminuir de tamanho */
+    }
+
+    .right h1 {
+        font-size: 24px; /* Ajusta o tamanho da fonte quando a tela diminuir de tamanho */
+    }    
+
     /* Ajustando a largura do formulário no 'right' */
     .form-login {
         max-width: 50%; /* Formulário ocupa mais espaço na tela */
@@ -176,10 +184,20 @@ p a {
     .btn-login {
         width: 100%; /* Botão ocupa 100% da largura */
     }
+
     .form-group i {
         font-size: 10px; /* Ajusta o tamanho dos ícones nos campos de texto */
     }
+
+    label {
+        font-size: 14px; /* Ajusta o tamanho da fonte das labels */
+    }
+
     input {
         font-size: 14px; /* Ajusta o tamanho da fonte dos campos de texto */
+    }
+
+    p a {
+        font-size: 14px; /* Ajusta o tamanho da fonte do link "Esqueci minha senha" */
     }
 }
