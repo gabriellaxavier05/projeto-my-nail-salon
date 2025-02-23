@@ -3,8 +3,8 @@
 
 #### Sequência Fibonacci
 1 -> 2 -> 3 -> 5 -> 8 -> 13 -> 21  
-Pontuação máxima por Sprint: 21 pontos  
-Tempo estimado das Sprints: 2 semanas  
+Pontuação máxima por Sprint: 8 pontos (para cada pessoa)
+Tempo estimado das Sprints: 1 semana
 
 <br>
 
@@ -40,3 +40,8 @@ Tempo estimado das Sprints: 2 semanas
 3. Diagramas
 4. Design Identidade Visual
 5. Protótipo Login
+6. Front-end - Login
+7. Protótipo 'Esqueci minha senha'
+8. Front-end - 'Esqueci minha senha'
+9. Protótipo index 
+10. Front-end - Index
